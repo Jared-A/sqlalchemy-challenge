@@ -7,11 +7,11 @@ By: Jared Adler
 
 This first graph depicts the areas precipitation levels over a 12 month period and is summarized in the notebook using Pandas:
 
-  ![precipitation](SQL_alchemy_challenge/Instructions/Images/precipitation.png)
+  ![precipitation](Images/precipitation.png)
 
 The second graph depicts the total observations at weather stations located in the area:
 
-  ![station-histogram](SQL_alchemy_challenge/Instructions/Images/station-histogram.png)
+  ![station-histogram](Images/station-histogram.png)
 
 The third graph depics the average min, max, and average temperature in the area:
 

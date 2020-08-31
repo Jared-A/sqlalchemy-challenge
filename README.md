@@ -5,9 +5,9 @@ By: Jared Adler
 >Click into the instructions folder and see the analysis for yourself in the Python Notebook titles "climate_starter.ipynb". 
 * Note that all analysis was done using SQL Alachemy, Pandas DF, and Matplotlib
 
-This first picture depicts the areas precipitation levels over a 12 month period and is summarized in the notebook using Pandas:
+This first graph depicts the areas precipitation levels over a 12 month period and is summarized in the notebook using Pandas:
 
-  ![precipitation](Instructions/Images/precipitation.png)
+  ![precipitation](SQL_alchemy_challenge/Instructions/Images/precipitation.png)
 
 * Use Pandas to print the summary statistics for the precipitation data.
 
@@ -29,7 +29,7 @@ This first picture depicts the areas precipitation levels over a 12 month period
 
   * Plot the results as a histogram with `bins=12`.
 
-    ![station-histogram](Images/station-histogram.png)
+    ![station-histogram](SQL_alchemy_challenge/Instructions/Images/station-histogram.png)
 
 - - -
 
